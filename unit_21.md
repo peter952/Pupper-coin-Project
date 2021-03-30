@@ -1,4 +1,4 @@
-# Unit 21: You sure can attract a crowd!
+# PupperCoin Token Minting
 
 ![crowd](Images/crowd.jpg)
 
